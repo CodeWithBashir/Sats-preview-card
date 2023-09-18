@@ -16,7 +16,7 @@ body {
 }
 .container {
   max-width: 100rem;
-  margin: 100px auto;
+  margin: 200px auto;
   background-color: hsl(244, 38%, 16%);
   border-radius: 1rem;
   overflow: hidden;
